@@ -20,7 +20,7 @@ import subprocess
 from plugins.dpbox import DPBOX
 from plugins.wdl import wget_dl
 import re
-from Mega import Mega
+from Mega import mega
 # import importlib.util
 gauth = GoogleAuth()
 
